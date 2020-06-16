@@ -1,0 +1,2 @@
+# developintelligence_data_engineering_fundamentals
+1 day data engineering fundamentals
